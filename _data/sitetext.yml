@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Next Generation Postpartum Care
-    text: Shuru
+    # text: Shuru
     button: Learn More
     buttonlink: "#services"
 
