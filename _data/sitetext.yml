@@ -76,27 +76,27 @@ en: &DEFAULT_EN
     people:
       - name: "Allison Liu"
         role: "Co-Founder"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/allison_img.jpg
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/allison-liu-04b47813b/
             icon: fab fa-linkedin-in
       - name: "Wendy Luo"
         role: "Co-Founder"
-        image: assets/img/team/2.jpg
+        image: assets/img/team/wendy_img.jpeg
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/wendy-luo-7484a5186/
             icon: fab fa-linkedin-in
       - name: "Shyama Majumdar"
         role: "Co-Founder"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/shyama_img.jpg
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/shyamamajumdar/
             icon: fab fa-linkedin-in
       - name: "Peter Zhao"
         role: "Co-Founder, Lead Developer"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/peter_img.jpg
         social:
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/peter-zhao/
             icon: fab fa-linkedin-in
 
   contact:
