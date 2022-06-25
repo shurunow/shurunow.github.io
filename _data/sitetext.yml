@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Postpartum Care"
         desc: "Lactation/nutrition, mental health support, sleep coach, physical therapy, doula care, relationship coaching and more"
-        icon: fas fa-hand-holding-hand #find more at https://fontawesome.com/icons
+        icon: fas fa-hands-holding #find more at https://fontawesome.com/icons
       - title: "Educational Library"
         desc: "Quick, easy video and text resources on various topics related to parenthood for you and your partner to follow along to"
         icon: fas fa-video
-      - title: "24/7 support"
+      - title: "24/7 Support"
         desc: "24/7 chatbot that will triage concerns. If the concerns require medical professional to discuss further, the user will be conencted to a 24/7 hotline."
-        icon: fab fa-message-bot
+        icon: fab fa-comment-medical
 
   timeline:
     title: "Timeline"
