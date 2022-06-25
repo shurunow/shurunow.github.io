@@ -41,7 +41,7 @@ en: &DEFAULT_EN
       - title: "Connecting with Alicia in the second trimester of her pregnancy through her Ob/Gyn"
         year: "Week 24 of pregnancy"
         desc: "We learn that Alicia has a previous history of depression and insomnia. She is also nervous about giving birth since it's her first child. Her Ob/Gyn and friends recommend that she use Shuru to build a custom care plan as soon as possible so she can receive support before and immediately after delivery."
-        image: fas fa-baby-carriage
+        image: assets/img/timeline/slack-imgs.jpg
         alt:
       - title: "Alicia begins to utilize Shuru's resources before her baby is born"
         year: "Week 36 of pregnancy"
