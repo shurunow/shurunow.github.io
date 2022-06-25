@@ -28,8 +28,7 @@ en: &DEFAULT_EN
         desc: "Quick, easy video and text resources on various topics related to parenthood for you and your partner to follow along to"
         icon: fas fa-video
       - title: "24/7 Support"
-        desc: "24/7 chatbot that will triage concerns. If the concerns require medical professional to discuss further, the user will be conencted to a 24/7 hotline."
-        icon: fab fa-comment-medical
+        desc: "24/7 chatbot that will triage concerns and direct users to 24/7 medical professional hotline.
 
   timeline:
     title: "Timeline"
