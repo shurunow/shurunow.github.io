@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Postpartum Care"
         desc: "Lactation/nutrition, mental health support, sleep coach, physical therapy, doula care, relationship coaching and more"
-        icon: fab fa-hands-holding #find more at https://fontawesome.com/icons
+        icon: fas fa-hands-holding #find more at https://fontawesome.com/icons
       - title: "Educational Library"
         desc: "Quick, easy video and text resources on various topics related to parenthood for you and your partner to follow along to"
         icon: fas fa-video
