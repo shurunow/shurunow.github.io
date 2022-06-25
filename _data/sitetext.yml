@@ -18,18 +18,18 @@ en: &DEFAULT_EN
 
   services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: "Technology driven services customized to your needs"
     section: services
     list:
-      - title: "Online Tools and Services"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-cloud #find more at https://fontawesome.com/icons
-      - title: "SHURU Library"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-book-medical
-      - title: "24/7 Support"
-        desc: "Your description here, full **Markdown** support"
-        icon: fas fa-comments
+      - title: "Postpartum Care"
+        desc: "Lactation/nutrition, mental health support, sleep coach, physical therapy, doula care, relationship coaching and more"
+        icon: fas fa-solid fa-hand-holding-hand #find more at https://fontawesome.com/icons
+      - title: "Educational Library"
+        desc: "Quick, easy video and text resources on various topics related to parenthood for you and your partner to follow along to"
+        icon: fas fa-solid fa-video
+      - title: "24/7 support"
+        desc: "24/7 chatbot that will triage concerns. If the concerns require medical professional to discuss further, the user will be conencted to a 24/7 hotline."
+        icon: fab fa-solid fa-message-bot
 
   timeline:
     title: "Timeline"
@@ -101,7 +101,6 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
