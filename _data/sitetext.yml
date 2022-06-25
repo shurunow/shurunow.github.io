@@ -28,34 +28,33 @@ en: &DEFAULT_EN
         desc: "Quick, easy video and text resources on various topics related to parenthood for you and your partner to follow along to"
         icon: fas fa-video
       - title: "24/7 Support"
-        desc: "24/7 chatbot that will triage concerns and direct users to 24/7 medical professional hotline."
-        icon: fas fa-comment-medical
+        desc: "24/7 chatbot that will triage concerns and direct users to 24/7 medical professional hotline
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "Follow Alicia through her journey using Shuru"
     section: timeline
     # left is the default
     #start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "Connecting with Alicia in the second trimester of her pregnancy through her Ob/Gyn"
+        year: "Week 24 of pregnancy"
+        desc: "We learn that Alicia has a previous history of depression and insomnia. She is also nervous about giving birth since it's her first child. Her Ob/Gyn and friends recommend that she use Shuru to build a custom care plan as soon as possible so she can receive support before and immediately after delivery."
+        image: fas fa-baby-carriage
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
+      - title: "Alicia begins to utilize Shuru's resources before her baby is born"
+        year: "Week 36 of pregnancy"
+        desc: "Shuru suggests Alicia to look through the resource library before the baby is born. Our sleep coach, mental health provider, and doula establish early relationships with her."
+        image: fas fa-baby-carriage
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Alicia delivers her baby but is struggling to sleep because her baby is crying at night which worsens her mood. She also is dealing with tears in her pelvic floor."
+        year: "2 weeks after delivery"
+        desc: "Her assigned sleep coach and mental health providers reach out to her and they learn about her struggles. She was doubtful that anything was actually wrong but begins getting the help she needs. She also"
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+      - title: "Alicia is panicking in the middle of the night because her baby doesn't want her milk."
+        year: "7 weeks after delivery"
+        desc: "She contacts the Shuru hotline which directs her to a video about why babies might refuse to nurse. She still wants some more guidance which puts her in contact with the 24/7 medical provider hotline."
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
