@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "Online Tools and Services"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-solid fa-cloud #find more at https://fontawesome.com/icons
+        icon: fas fa-cloud #find more at https://fontawesome.com/icons
       - title: "SHURU Library"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fa-solid fa-book-medical
+        icon: fas fa-book-medical
       - title: "24/7 Support"
         desc: "Your description here, full **Markdown** support"
-        icon: fa-solid fa-comments
+        icon: fas fa-comments
 
   timeline:
     title: "Timeline"
