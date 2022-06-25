@@ -21,15 +21,15 @@ en: &DEFAULT_EN
     text: "Lorem ipsum"
     section: services
     list:
-      - title: "E-Commerce"
+      - title: "Online Tools and Services"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
+        icon: fa-solid fa-cloud #find more at https://fontawesome.com/icons
+      - title: "SHURU Library"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        icon: fa-solid fa-book-medical
+      - title: "24/7 Support"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fa-solid fa-comments
 
   timeline:
     title: "Timeline"

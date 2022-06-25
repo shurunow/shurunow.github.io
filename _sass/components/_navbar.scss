@@ -15,6 +15,7 @@
   .navbar-brand {
     color: #706695;
     font-weight: bold;
+    text-transform: uppercase;
     @include heading-font;
     &.active,
     &:active,
