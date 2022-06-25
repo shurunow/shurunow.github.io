@@ -19,9 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "our story"
-    body: "Mothers are busier than ever, juggling their professional, social, and personal lives while embarking on a journey of motherhood. Although exciting, bringing a new baby home is equally daunting and difficult to navigate. The first appointment with your Ob/Gyn occurs 6 weeks after delivery. That’s 6 whole weeks of unknowns without care or follow-up.<br>
-    <br>
-    Shuru was founded to address the numerous concerns and health issues that mothers may face after pregnancy. Founded by two medical students and a mother, we have seen the challenges of caring for a baby firsthand. We also know that proactive care, holistic support, and accessibility to resources can help mothers, babies, and their families feel happier and healthier. Let us help support you in this exciting journey and give you the tools to succeed as a mother!"
+    body: "Mothers are busier than ever, juggling their professional, social, and personal lives while embarking on motherhood. Although exciting, bringing a new baby home is daunting and difficult to navigate. The first appointment with your Ob/Gyn occurs 6 weeks after delivery. That’s 6 whole weeks of unknowns without care or follow-up. \n Shuru was founded to address the numerous concerns and health issues that mothers may face after pregnancy. Founded by two medical students and a mother, we have seen the challenges of caring for a baby firsthand. We also know that proactive care, holistic support, and accessibility to resources can help mothers, babies, and their families feel happier and healthier. Let us help support you in this exciting journey and give you the tools to succeed as a mother!"
     section: about
     
   services:
@@ -31,12 +29,12 @@ en: &DEFAULT_EN
     list:
       - title: "Postpartum Care"
         desc: "Lactation/nutrition, mental health support, sleep coach, physical therapy, doula care, relationship coaching and more"
-        icon: fas fa-heart-pulse #find more at https://fontawesome.com/icons
+        icon: fas fa-hospital-user #find more at https://fontawesome.com/icons
       - title: "Educational Library"
         desc: "Quick, easy video and text resources on various topics related to parenthood for you and your partner to follow along to"
-        icon: fas fa-video
+        icon: fas fa-circle-play
       - title: "24/7 Support"
-        desc: "24/7 chatbot that will triage concerns and direct users to 24/7 medical professional hotline."
+        desc: "24/7 chatbot that will triage concerns and direct users to 24/7 medical professional hotline"
         icon: fas fa-comment-medical
 
   timeline:
@@ -49,26 +47,26 @@ en: &DEFAULT_EN
       - title: "Connecting with Alicia in the second trimester of her pregnancy through her Ob/Gyn"
         year: "Week 24 of pregnancy"
         desc: "We learn that Alicia has a previous history of depression and insomnia. She is also nervous about giving birth since it's her first child. Her Ob/Gyn and friends recommend that she use Shuru to build a custom care plan as soon as possible so she can receive support before and immediately after delivery."
-        image: fas fa-baby-carriage
+        image: assets/img/timeline/slack-imgs-1.jpg
         alt:
       - title: "Alicia begins to utilize Shuru's resources before her baby is born"
         year: "Week 36 of pregnancy"
         desc: "Shuru suggests Alicia to look through the resource library before the baby is born. Our sleep coach, mental health provider, and doula establish early relationships with her."
-        image: fas fa-baby-carriage
+        image: assets/img/timeline/slack-imgs-2.jpg
         alt:
       - title: "Alicia delivers her baby but is struggling to sleep because her baby is crying at night which worsens her mood. She also is dealing with tears in her pelvic floor."
         year: "2 weeks after delivery"
         desc: "Her assigned sleep coach and mental health providers reach out to her and they learn about her struggles. She was doubtful that anything was actually wrong but begins getting the help she needs. She also begins doing pelvic exercises with her physical therapist."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/slack-imgs-3.jpg
         alt: image alt text
       - title: "Alicia is panicking in the middle of the night because her baby doesn't want her milk."
         year: "7 weeks after delivery"
         desc: "She contacts the Shuru hotline which directs her to a video about why babies might refuse to nurse. She still wants some more guidance which puts her in contact with the 24/7 medical provider hotline."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/slack-imgs-4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Alicia is <br> thriving with her <br> baby and family!"
 
   team:
     title: "The Shuru Team"
