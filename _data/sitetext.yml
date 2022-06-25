@@ -16,6 +16,12 @@ en: &DEFAULT_EN
     button: Learn More
     buttonlink: "#services"
 
+  about:
+    title: "About Us"
+    text: "our story"
+    body: "Mothers are busier than ever, juggling their professional, social, and personal lives while embarking on a journey of motherhood. Although exciting, bringing a new baby home is equally daunting and difficult to navigate. The first appointment with your Ob/Gyn occurs 6 weeks after delivery. That’s 6 whole weeks of unknowns without care or follow-up. \n Shuru was founded to address the numerous concerns and health issues that mothers may face after pregnancy. Founded by two medical students and a mother, we have seen the challenges of caring for a baby firsthand. We also know that proactive care, holistic support, and accessibility to resources can help mothers, babies, and their families feel happier and healthier. Let us help support you in this exciting journey and give you the tools to succeed as a mother!"
+    section: about
+    
   services:
     title: "Services"
     text: "Technology driven services customized to your needs"
@@ -61,12 +67,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of Our <br> Story!"
-
-  about:
-    title: "About Us"
-    text: "our story"
-    body: "Mothers are busier than ever, juggling their professional, social, and personal lives while embarking on a journey of motherhood. Although exciting, bringing a new baby home is equally daunting and difficult to navigate. The first appointment with your Ob/Gyn occurs 6 weeks after delivery. That’s 6 whole weeks of unknowns without care or follow-up. Shuru was founded to address the numerous concerns and health issues that mothers may face after pregnancy. Founded by two medical students and a mother, we have seen the challenges of caring for a baby firsthand. We also know that proactive care, holistic support, and accessibility to resources can help mothers, babies, and their families feel happier and healthier. Let us help support you in this exciting journey and give you the tools to succeed as a mother!"
-    section: about
 
   team:
     title: "The Shuru Team"
