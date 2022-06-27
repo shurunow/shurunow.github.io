@@ -30,10 +30,10 @@ en: &DEFAULT_EN
     list:
       - title: "Postpartum Care"
         desc: "Lactation/nutrition, mental health support, sleep coach, physical therapy, doula care, relationship coaching and more"
-        icon: fas fa-hospital-user #find more at https://fontawesome.com/icons
+        icon: fab fa-hospital-user #find more at https://fontawesome.com/icons
       - title: "Educational Library"
         desc: "Quick, easy video and text resources on various topics related to parenthood for you and your partner to follow along to"
-        icon: fas fa-circle-play
+        icon: fab fa-circle-play
       - title: "24/7 Support"
         desc: "24/7 chatbot that will triage concerns and direct users to 24/7 medical professional hotline"
         icon: fas fa-comment-medical
@@ -46,31 +46,31 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Connecting with Alicia in the second trimester of her pregnancy through her Ob/Gyn"
-        year: "Week 24 of pregnancy"
+        header: "Week 24 of pregnancy"
         desc: "We learn that Alicia has a previous history of depression and insomnia. She is also nervous about giving birth since it's her first child. Her Ob/Gyn and friends recommend that she use Shuru to build a custom care plan as soon as possible so she can receive support before and immediately after delivery."
-        image:
+        image: assets/img/slack-imgs.jpg
         alt:
       - title: "Alicia begins to utilize Shuru's resources before her baby is born"
-        year: "Week 36 of pregnancy"
+        header: "Week 36 of pregnancy"
         desc: "Shuru suggests Alicia to look through the resource library before the baby is born. Our sleep coach, mental health provider, and doula establish early relationships with her."
-        image:
+        image: assets/img/slack-imgs-1.jpg
         alt:
       - title: "Alicia delivers her baby but is struggling to sleep because her baby is crying at night which worsens her mood. She also is dealing with tears in her pelvic floor."
-        year: "2 weeks after delivery"
+        header: "2 weeks after delivery"
         desc: "Her assigned sleep coach and mental health providers reach out to her and they learn about her struggles. She was doubtful that anything was actually wrong but begins getting the help she needs. She also begins doing pelvic exercises with her physical therapist."
-        image: 
+        image: assets/img/slack-imgs-2.jpg
         alt: image alt text
       - title: "Alicia is panicking in the middle of the night because her baby doesn't want her milk."
-        year: "7 weeks after delivery"
+        header: "7 weeks after delivery"
         desc: "She contacts the Shuru hotline which directs her to a video about why babies might refuse to nurse. She still wants some more guidance which puts her in contact with the 24/7 medical provider hotline."
-        image: 
+        image: assets/img/slack-imgs-3.jpg
         alt:
         # you can enforce the alignment
         align: right
       - title: "Alicia is <br> thriving with her baby and family!"
-        year: "7 weeks after delivery"
+        header:
         desc: 
-        image: 
+        image: assets/img/slack-imgs.-4jpg
         alt:
         # you can enforce the alignment
         align: left

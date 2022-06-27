@@ -34,8 +34,8 @@
               </div>
               <div class="timeline-panel">
                 <div class="timeline-heading">
-                  <h4>{{ event.year | markdownify }}</h4>
-                  <h4 class="subheading">{{ event.title }}</h4>
+                  <h4>{{ event.header | markdownify }}</h4>
+                  <h6 class="subheading">{{ event.title }}</h6>
                 </div>
                 <div class="timeline-body">
                   <div class="text-muted">{{ event.desc | markdownify }}</div>
