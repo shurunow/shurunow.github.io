@@ -30,7 +30,7 @@ en: &DEFAULT_EN
     list:
       - title: "Postpartum Care"
         desc: "Lactation/nutrition, mental health support, sleep coach, physical therapy, doula care, relationship coaching and more"
-        icon: fas fa-house-chimney-medical #find more at https://fontawesome.com/icons
+        icon: fas fa-hand-holding-medical
       - title: "Educational Library"
         desc: "Quick, easy video and text resources on various topics related to parenthood for you and your partner to follow along to"
         icon: fas fa-book-medical
@@ -58,8 +58,8 @@ en: &DEFAULT_EN
       - title: "Alicia delivers her baby but is struggling to sleep because her baby is crying at night which worsens her mood. She also is dealing with tears in her pelvic floor."
         header: "2 weeks after delivery"
         desc: "Her assigned sleep coach and mental health providers reach out to her and they learn about her struggles. She was doubtful that anything was actually wrong but begins getting the help she needs. She also begins doing pelvic exercises with her physical therapist."
-        image: assets/img/slack-imgs-2.jpg
-        alt: image alt text
+        image: assets/img/timeline/slack-imgs-2.jpg
+        alt:
       - title: "Alicia is panicking in the middle of the night because her baby doesn't want her milk."
         header: "7 weeks after delivery"
         desc: "She contacts the Shuru hotline which directs her to a video about why babies might refuse to nurse. She still wants some more guidance which puts her in contact with the 24/7 medical provider hotline."
