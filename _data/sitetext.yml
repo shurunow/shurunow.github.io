@@ -68,7 +68,7 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
       - title: "Alicia is <br> thriving with her baby and family!"
-        header: "1+ months after delivery"
+        header: "2+ months after delivery"
         desc: "Alicia is confident that she has the support she needs to best care for her child!"
         image: assets/img/timeline/slack-imgs-4.jpg
         alt:
